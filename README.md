@@ -2,7 +2,7 @@
 Final term project I did for one of my game development minor classes.
 - Character selection.(Char classes.)
 
-![First Screen](CharSelect.JPG)
+![First Screen](CharSelection.JPG)
 
 - Gameplay screen.
 
@@ -14,4 +14,4 @@ Final term project I did for one of my game development minor classes.
 
 - One of the endings.
 
-![First Screen](Edn1.JPG)
+![First Screen](End1.JPG)
